@@ -18,7 +18,7 @@ doskey /macros:all
 
 Doskey is powerful way to shorten commands to automating tasks that are needed on daily basis.
 
-Using "install.cmd" can be used to automatically install the solution.
+You are able to automatically install this solution:
 
 1. Open cmd.exe in Run As Administrator.
 2. Navigate to the folder with "install.cmd".
