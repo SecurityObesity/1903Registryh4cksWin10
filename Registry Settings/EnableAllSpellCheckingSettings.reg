@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\TabletTip\1.7]
+"EnableAutocorrection"=dword:00000001
+"EnableSpellchecking"=dword:00000001
+"EnableTextPrediction"=dword:00000001
+"EnablePredictionSpaceInsertion"=dword:00000001
+"EnableDoubleTapSpace"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Microsoft\Input\Settings]
+"EnableHwkbTextPrediction"=dword:00000001
+"EnableHwkbAutocorrection2"=dword:00000001
+"MultilingualEnabled"=dword:00000001
