@@ -1,3 +1,4 @@
 sayhello=echo Hello, World!
 editlmhosts=notepad C:\Windows\System32\drivers\etc\hosts
 wpad="C:\Program Files\Windows NT\Accessories\wordpad.exe" $1
+onedrive="%AppData%\..\Local\Microsoft\OneDrive\OneDrive.exe"
